@@ -1,9 +1,5 @@
-<h1>💫About me :</h1>
-<style>
-  /* CSS to center the h1 element */
-  h1 {
-    text-align: center;
-  }
+                                                                  <h1>💫About me :</h1>
+
 </style>
 Hi, my name is MousaShuaib 👋
 I am a 4th-year computer science student at Birzeit University.
