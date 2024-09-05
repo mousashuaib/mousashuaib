@@ -3,7 +3,8 @@
   Hi, my name is [Mousa Shuaib] 🙋‍♂️ <br/>
   I am a 4th-year computer science student at Birzeit University.<br/>
 A promising millionaire with a passion for technology and innovation. 🌟
----
+
+
   
 <h2 align="center">🌐 Connect with Me :</h2>
 <p align="center">
@@ -15,7 +16,8 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+
+
 
 <h2 align="center">🔢 Profile Visitors:</h2>
 <p align="center">
@@ -24,7 +26,7 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
 </p>
 
----
+
 
 <h2 align="center">💻 My Tech Stack:</h2>
 <p align="center">
@@ -47,10 +49,10 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
----
 
-## 📊 GitHub Stats:
-
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="[YourUsername]" />
 </p>
