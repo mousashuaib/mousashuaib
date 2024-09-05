@@ -17,16 +17,18 @@ A promising millionaire with a passion for technology and innovation. 🌟
 
 ---
 
-## 🔢 Profile Visitors:
-
+<h2 align="center">🔢 Profile Visitors:</h2>
+<p align="center">
+  
 <p align="center">
   <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
 </p>
 
 ---
 
-## 💻 My Tech Stack:
-
+<h2 align="center">💻 My Tech Stack:</h2>
+<p align="center">
+  
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
