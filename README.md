@@ -1,19 +1,12 @@
-<h1 align="center">👋 Hi, I'm [Mousa Shuaib] </h1>
-<h3 align="center">A [Your Role] from [Your University/Location]</h3>
-<h4 align="center">A promising individual with a passion for technology and innovation. 🌟</h4>
-
+<h2 align="center">🌟 About Me:</h2>
+<p align="center">
+  Hi, my name is [Mousa Shuaib] 🙋‍♂️ <br/>
+  I am a 4th-year computer science student at Birzeit University.
+A promising millionaire with a passion for technology and innovation. 🌟
 ---
-
-## 👨‍💻 About Me:
-
-Hi, my name is **[Mousa Shuaib]** 🎓  
-I am a [4th Year] computer science student at **[Birzeit University]**.  
-A promising [Your Aspiration] with a passion for technology and innovation. 🌟
-
----
-
-## 🌐 Connect with Me:
-
+  
+<h2 align="center">🌐 Connect with Me :</h2>
+<p align="center">
 <p align="center">
   <a href="https://facebook.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
