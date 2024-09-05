@@ -63,7 +63,3 @@ A promising millionaire with a passion for technology and innovation. 🌟
 </p>
 
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&langs_count=6)
-
