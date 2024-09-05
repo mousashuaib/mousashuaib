@@ -1,6 +1,6 @@
-<h2 align="center">🌟 About Me:</h2>
+<h1 align="center">🌟 About Me:</h1>
 <p align="center">
-  Hi, my name is [Mousa Shuaib] 🙋‍♂️ <br/>
+ <h3>Hi, my name is Mousa Shuaib 🙋‍♂️</h3>  <br/>
   I am a 4th-year computer science student at Birzeit University.<br/>
 A promising millionaire with a passion for technology and innovation. 🌟
 
