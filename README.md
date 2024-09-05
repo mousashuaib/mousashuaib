@@ -1,7 +1,7 @@
 <h2 align="center">🌟 About Me:</h2>
 <p align="center">
   Hi, my name is [Mousa Shuaib] 🙋‍♂️ <br/>
-  I am a 4th-year computer science student at Birzeit University.
+  I am a 4th-year computer science student at Birzeit University.<br/>
 A promising millionaire with a passion for technology and innovation. 🌟
 ---
   
