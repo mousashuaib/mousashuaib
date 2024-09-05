@@ -49,9 +49,6 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
   
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="[YourUsername]" />
@@ -64,3 +61,9 @@ A promising millionaire with a passion for technology and innovation. 🌟
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YourUsername]&show_icons=true&locale=en&layout=compact&theme=radical" alt="[YourUsername]" />
 </p>
+
+
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&langs_count=6)
+
