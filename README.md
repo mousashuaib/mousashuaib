@@ -2,7 +2,7 @@
 <p align="center">
  <b>Hi, my name is Mousa Shuaib 🙋‍♂️</b><br/>
   I am a 4th-year computer science student at Birzeit University.<br/>
-A promising millionaire with a passion for technology and innovation. 🌟
+  A promising millionaire with a passion for technology and innovation. 🌟
 </p>
 
 <h2 align="center">🌐 Connect with Me :</h2>
@@ -40,6 +40,6 @@ A promising millionaire with a passion for technology and innovation. 🌟
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="![mousashuaib's Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=mousashuaib&theme=bear&show_icons=true&hide_border=false&layout=compact)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mousashuaib&theme=bear&show_icons=true&hide_border=false" alt="mousashuaib's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false" alt="mousashuaib's Streak" />
 </p>
