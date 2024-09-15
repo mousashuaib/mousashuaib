@@ -15,8 +15,7 @@
 
 <h2 align="center">🔢 Profile Visitors:</h2>
 <p align="center">
-  <img src="![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-" />
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
 </p>
 
 <h2 align="center">💻 My Tech Stack:</h2>
