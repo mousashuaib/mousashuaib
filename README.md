@@ -1,8 +1,7 @@
 <h1 align="center">🌟 About Me:</h1>
 <p align="center">
  <b>Hi, my name is Mousa Shuaib 🙋‍♂️</b><br/>
-  I am a 4th-year computer science student at Birzeit University.<br/>
-  A promising millionaire with a passion for technology and innovation. 🌟
+ I'm currently in my fourth year at Birzeit University, pursuing a degree in Computer Science. With a deep passion for technology and a drive for innovation, I’m on a journey to make a significant impact in the tech world.  🌟
 </p>
 
 <h2 align="center">🌐 Connect with Me :</h2>
