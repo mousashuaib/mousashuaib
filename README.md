@@ -49,3 +49,4 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
+![mousashuaib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mousashuaib&theme=radical&show_icons=true&hide_border=false&layout=compact)
