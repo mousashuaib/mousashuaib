@@ -3,11 +3,9 @@
  <b>Hi, my name is Mousa Shuaib 🙋‍♂️</b><br/>
   I am a 4th-year computer science student at Birzeit University.<br/>
 A promising millionaire with a passion for technology and innovation. 🌟
+</p>
 
-
-  
 <h2 align="center">🌐 Connect with Me :</h2>
-<p align="center">
 <p align="center">
   <a href="https://www.facebook.com/mosa.shuaib5" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
@@ -16,21 +14,12 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-
-
-
 <h2 align="center">🔢 Profile Visitors:</h2>
-<p align="center">
-  
 <p align="center">
   <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
 </p>
 
-
-
 <h2 align="center">💻 My Tech Stack:</h2>
-<p align="center">
-  
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -49,6 +38,8 @@ A promising millionaire with a passion for technology and innovation. 🌟
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-![mousashuaib's Stats](https://github-readme-stats.vercel.app/api?username=mousashuaib&theme=radical&show_icons=true&hide_border=false&count_private=true)
-
-![mousashuaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false)
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mousashuaib&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="mousashuaib's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false" alt="mousashuaib's Streak" />
+</p>
