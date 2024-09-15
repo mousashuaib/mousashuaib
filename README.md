@@ -50,3 +50,5 @@ A promising millionaire with a passion for technology and innovation. 🌟
 </p>
 
 ![mousashuaib's Stats](https://github-readme-stats.vercel.app/api?username=mousashuaib&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![mousashuaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false)
