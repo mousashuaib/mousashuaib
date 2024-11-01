@@ -15,7 +15,7 @@
 
 <h2 align="center">🔢 Profile Visitors:</h2>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
 </p>
 
 
