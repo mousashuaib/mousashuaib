@@ -15,7 +15,7 @@
 
 <h2 align="center">🔢 Profile Visitors:</h2>
 <p align="center">
-  <img src="https://hits.dwyl.com/your-username/your-repo.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Profile Views" />
 </p>
 
 
