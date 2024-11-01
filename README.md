@@ -15,8 +15,9 @@
 
 <h2 align="center">🔢 Profile Visitors:</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/your-username/your-repo.svg" alt="Profile Views" />
 </p>
+
 
 <h2 align="center">💻 My Tech Stack:</h2>
 <p align="center">
