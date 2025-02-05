@@ -37,6 +37,10 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousashuaib&theme=bear&show_icons=true&hide_border=false&layout=compact" alt="mousashuaib's Top Languages" width="460" height="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false" alt="mousashuaib's Streak" />
+  <a href="https://github.com/mousashuaib" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousashuaib&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="mousashuaib's Top Languages" width="460" height="300" />
+  </a>
+  <a href="https://github.com/mousashuaib" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousashuaib&theme=radical&hide_border=false" alt="mousashuaib's Streak" />
+  </a>
 </p>
