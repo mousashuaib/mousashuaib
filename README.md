@@ -9,10 +9,13 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fourth--year%20CS%20student%20@%20Birzeit%20University-purple?style=flat&logo=bookstack&logoColor=white" />
-  <br/><br/>
-  💡 Passionate about <b>problem-solving</b>, <b>software engineering</b>, and <b>continuous learning</b><br/>
-  🌍 Aiming to leave a <b>positive mark</b> in the tech world with <b>creative solutions</b> and 💻 impactful code.
+  I'm <b>Mousa Shuaib</b>, a <b>fourth-year Computer Science student at Birzeit University</b> with a strong passion for building real-world software systems that create meaningful impact.<br/><br/>
+
+  During my training at <b>Aurora Web Technology</b>, I worked professionally as a <b>Full Stack Developer</b> where I mastered both <b>Spring Boot</b> on the backend and <b>React</b> on the frontend. I was actively involved in developing web-based systems using modern tools, clean architecture, and secure authentication practices.<br/><br/>
+
+  I am passionate about <b>problem-solving</b>, <b>software engineering</b>, and <b>continuous learning</b>. I’m driven by the desire to craft reliable and scalable solutions that make technology more accessible and efficient.<br/><br/>
+
+  🌍 My goal is to leave a positive footprint in the tech industry by building innovative systems and writing impactful code 💻.
 </p>
 
 ---
