@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center" style="font-size:16px; max-width:800px; margin:auto;">
-  I trained professionally at <b>Aurora Web Technology</b> as a <b>Full Stack Developer</b>, where I mastered both <b>Spring Boot</b> for backend development and <b>React</b> for building responsive and modern frontend interfaces. 🛠️
+  I trained professionally at <b>Aurora Technology</b> as a <b>Full Stack Developer</b>, where I mastered both <b>Spring Boot</b> for backend development and <b>React</b> for building responsive and modern frontend interfaces. 🛠️
   <br/>I worked on real projects using clean architecture, RESTful APIs, and secure authentication practices.
 </p>
 
