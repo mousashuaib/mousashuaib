@@ -6,17 +6,35 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  I'm <b>Mousa Shuaib</b>, a <b>fourth-year Computer Science student at Birzeit University</b> with a strong passion for building real-world software systems that create meaningful impact.<br/><br/>
-
-  During my training at <b>Aurora Web Technology</b>, I worked professionally as a <b>Full Stack Developer</b> where I mastered both <b>Spring Boot</b> on the backend and <b>React</b> on the frontend. I was actively involved in developing web-based systems using modern tools, clean architecture, and secure authentication practices.<br/><br/>
-
-  I am passionate about <b>problem-solving</b>, <b>software engineering</b>, and <b>continuous learning</b>. I’m driven by the desire to craft reliable and scalable solutions that make technology more accessible and efficient.<br/><br/>
-
-  🌍 My goal is to leave a positive footprint in the tech industry by building innovative systems and writing impactful code 💻.
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet?style=flat-square&logo=developer&logoColor=white" />
 </p>
+
+<p align="center" style="font-size:16px; max-width:800px; margin:auto;">
+  <b>I'm Mousa Shuaib</b>, a <b>fourth-year Computer Science student at Birzeit University</b>, deeply passionate about building real-world software systems that deliver meaningful impact. 💡
+</p>
+
+<br/>
+
+<p align="center" style="font-size:16px; max-width:800px; margin:auto;">
+  I trained professionally at <b>Aurora Web Technology</b> as a <b>Full Stack Developer</b>, where I mastered both <b>Spring Boot</b> for backend development and <b>React</b> for building responsive and modern frontend interfaces. 🛠️
+  <br/>I worked on real projects using clean architecture, RESTful APIs, and secure authentication practices.
+</p>
+
+<br/>
+
+<p align="center" style="font-size:16px; max-width:800px; margin:auto;">
+  I'm passionate about <b>problem-solving</b>, <b>software engineering</b>, and <b>continuous learning</b>. I'm always excited to learn, build, and optimize scalable solutions. 📚
+</p>
+
+<br/>
+
+<p align="center" style="font-size:16px; max-width:800px; margin:auto;">
+  🌍 My goal is to leave a positive footprint in the tech industry by building creative systems and writing impactful code 💻.
+</p>
+
 
 ---
 
