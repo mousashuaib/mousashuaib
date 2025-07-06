@@ -1,36 +1,44 @@
+<h1 align="center">✨ Mousa Shuaib ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F9FFF&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Mousa+Shuaib;Computer+Science+Student+%F0%9F%93%9D%EF%B8%8F;Passionate+about+Technology+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F9FFF&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Mousa+Shuaib;CS+Student+at+Birzeit+University;Passionate+about+Tech+%F0%9F%92%BB;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 About Me
-> 🎓 **Fourth-year CS student at Birzeit University**  
-> 💡 Passionate about problem-solving, software engineering, and continuous learning  
-> 🌍 Aiming to leave a positive mark in the tech world with creative solutions
-
----
-
-## 🌐 Connect with Me
+<h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  <a href="https://www.facebook.com/mosa.shuaib5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mousa-shuaib-baa30630a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Fourth--year%20CS%20student%20@%20Birzeit%20University-purple?style=flat&logo=bookstack&logoColor=white" />
+  <br/><br/>
+  💡 Passionate about <b>problem-solving</b>, <b>software engineering</b>, and <b>continuous learning</b><br/>
+  🌍 Aiming to leave a <b>positive mark</b> in the tech world with <b>creative solutions</b> and 💻 impactful code.
 </p>
 
 ---
 
-## 🔢 Profile Visitors
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/mosa.shuaib5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mousa-shuaib-baa30630a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">📊 Profile Visitors</h2>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/mousashuaib/count.svg" />
 </p>
 
 ---
 
-## 💻 My Tech Stack
+<h2 align="center">💻 My Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -48,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mousashuaib&show_icons=true&theme=tokyonight&border_radius=15" height="180px"/>
