@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/10/04/09/52/09-52-06-35_512.gif" width="100%" />
+</p>
+
 <h1 align="center">✨ Mousa Shuaib ✨</h1>
 
 <p align="center">
