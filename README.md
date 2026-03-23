@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="font-size:16px; max-width:800px; margin:auto;">
-  <b>I'm Mousa Shuaib</b>, a <b>fourth-year Computer Science student at Birzeit University</b>, deeply passionate about building real-world software systems that deliver meaningful impact. 💡
+  <b>I'm Mousa Shuaib</b>, a <b>Computer Science graduate from Birzeit University</b> with hands-on experience in building full-stack applications using <b>Java, Spring Boot, and React</b>. I'm passionate about developing scalable, real-world software systems that create meaningful impact.  💡
 </p>
 
 <br/>
